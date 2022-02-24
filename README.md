@@ -1,4 +1,6 @@
-## Hey, I'm Ish! 👋
+![Header](https://i.imgur.com/aS5a10r.png)
+
+## Good to meet you! 👋
 
 ### I'm a Front-End Web Developer passionate about learning new technologies, and applying them to create transformative and inclusive digital experiences.
 
