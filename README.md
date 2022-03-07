@@ -2,8 +2,6 @@
 
 ## Good to meet you! 👋
 
-### I'm a Front-End Web Developer passionate about learning new technologies, and applying them to create transformative and inclusive digital experiences.
-
 - ✨ Presently a member of Juno College's Web Development Bootcamp, Cohort 39. 
 
 - 🌱 Outside of Front-End Development, I am also learning virtualization and exploring self-hosted apps, and learning to use Linux. Just for fun.
