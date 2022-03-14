@@ -1,4 +1,4 @@
-![Header](https://i.imgur.com/aS5a10r.png)
+![Header](https://i.imgur.com/M7tCrIq.png)
 
 ## Good to meet you! 👋
 
