@@ -2,9 +2,8 @@
 
 ## Good to meet you! 👋
 
-- ✨ Presently a member of Juno College's Web Development Bootcamp, Cohort 39. 
 
-- 🌱 Outside of Front-End Development, I am also learning virtualization and exploring self-hosted apps, and learning to use Linux. Just for fun.
+- ✨ Outside of Front-End Development, I am also learning virtualization and exploring self-hosted apps, and learning to use Linux. Just for fun.
 
 - 🎮 I'm a PC gaming enthusiast - mostly MMORPGs, FPS, and 4X games. 
 
