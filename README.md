@@ -2,7 +2,7 @@
 
 ## Good to meet you! 👋
 
-- 💭 I'm currently working on my React skills and picking up some Node skills.
+- 💭 I'm currently working on my React skills and picking up some Node skills while looking for junior dev opportunities.
 
 - ✨ Outside of Front-End Development, I am also learning virtualization and exploring self-hosted apps, and learning to use Linux. Just for fun.
 
