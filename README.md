@@ -1,16 +1,5 @@
 ![Header](https://i.imgur.com/M7tCrIq.png)
 
-## Good to meet you! 👋
-
-- 💭 I'm currently working on my React skills and picking up some Node skills while looking for junior dev opportunities.
-
-- ✨ Outside of Front-End Development, I am also learning virtualization and exploring self-hosted apps, and learning to use Linux. Just for fun.
-
-- 🎮 I'm a PC gaming enthusiast - mostly MMORPGs, FPS, and 4X games. 
-
-- ⚡ Tabs over spaces.
-
-
 #### 💬 Let's connect! 
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishween)
